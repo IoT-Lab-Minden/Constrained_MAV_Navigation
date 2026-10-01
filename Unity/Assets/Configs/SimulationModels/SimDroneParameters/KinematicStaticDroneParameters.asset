@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab641f4eebba03e4895912af155f8162, type: 3}
+  m_Name: KinematicStaticDroneParameters
+  m_EditorClassIdentifier: 
+  takeoffTime: 0.85
+  maxHeight: 5
+  weight: 0.08
+  linearDragCoefficient: 1.042696
+  angularDragCoefficient: 2.520299
+  linearAcceleration: 2.123486
+  angularAcceleration: 4.350489
+  maxLinearVelocity: 1.109354
+  maxAngularVelocity: 96.27034

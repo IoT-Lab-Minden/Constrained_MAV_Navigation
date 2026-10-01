@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the following paper."
+type: software
+title: "Constrained MAV Navigation"
+authors:
+  - family-names: Kirsch
+    given-names: André
+  - family-names: Rexilius
+    given-names: Jan
+repository-code: "https://github.com/IoT-Lab-Minden/Constrained_MAV_Navigation"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Kirsch
+      given-names: André
+    - family-names: Rexilius
+      given-names: Jan
+  title: "Reinforcement Learning-based MAV Navigation With Parameterized Waypoints: Incorporating Orientation, Speed Limits, and Corridor Constraints"
+  collection-title: "9th Iberian Robotics Conference (ROBOT2026)"
+  year: 2026

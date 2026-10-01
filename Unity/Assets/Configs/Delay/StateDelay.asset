@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1e3a2e0304b45949933d2573b7541b0, type: 3}
+  m_Name: StateDelay
+  m_EditorClassIdentifier: 
+  fixedDelay: 0
+  delayConfigs:
+  - {fileID: 11400000, guid: 3727561b3f423c3478aa812b818edc37, type: 2}
+  - {fileID: 11400000, guid: 64097e52537b16b4a95e7e470aaee4b4, type: 2}
