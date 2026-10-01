@@ -1,7 +1,7 @@
 # Constrained MAV Navigation
 
 <p align="center">
-	<img alt="RP Tracking logo" src="imgs/teaser.png" width="400">
+	<img alt="RP Tracking logo" src="imgs/teaser.png" width="900">
 </p>
 
 This repository contains the source code of the paper [Reinforcement Learning-based MAV Navigation With Parameterized Waypoints: Incorporating Orientation, Speed Limits, and Corridor Constraints](https://doi.org/TODO). It includes simulated drone dynamics, waypoint-based tasks, classical and reinforcement learning controllers, and control barrier functions.
